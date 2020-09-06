@@ -1,6 +1,7 @@
 ### Hi there 👋 
 #### I am Francisco Mir, an electronic engineer focused on software development and IoT. 
-#### Always wanting to learn something new and give out my experience.
+
+Always wanting to learn something new and give out my experience.
 
 ### 📫 How to reach me: ...
 - [**Contact**](https://compassionate-villani-cd7ef9.netlify.app/contact/)

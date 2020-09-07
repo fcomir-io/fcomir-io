@@ -3,7 +3,7 @@
 
 Always wanting to learn something new and give out my experience.
 
-### 📫 How to reach me: ...
+### 📫 How to reach me:
 - [**Contact**](https://compassionate-villani-cd7ef9.netlify.app/contact/)
 - [**Newsletter**](https://compassionate-villani-cd7ef9.netlify.app/subscribe)
 - [**RSS Feed**](https://compassionate-villani-cd7ef9.netlify.app/rss.xml)

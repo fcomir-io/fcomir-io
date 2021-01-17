@@ -4,9 +4,9 @@
 Always wanting to learn something new and give out my experience.
 
 ### 📫 How to reach me:
-- [**Contact**](https://compassionate-villani-cd7ef9.netlify.app/contact/)
-- [**Newsletter**](https://compassionate-villani-cd7ef9.netlify.app/subscribe)
-- [**RSS Feed**](https://compassionate-villani-cd7ef9.netlify.app/rss.xml)
+- [**Contact**](https://www.franciscomir.io/contact/)
+- [**Newsletter**](https://www.franciscomir.io/subscribe)
+- [**RSS Feed**](https://priceless-bhabha-7132c2.netlify.app/rss.xml)
 
 <!--
 **fcomir-io/fcomir-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
